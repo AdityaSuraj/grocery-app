@@ -17,7 +17,6 @@ dependencies:
   carousel_slider:
   koukicons:
   flutter_calendar_carousel: ^1.4.11
-  flutter_svg: ^1.18.0
 
 dev_dependencies:
   flutter_test:
